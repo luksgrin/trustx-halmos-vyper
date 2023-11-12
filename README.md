@@ -14,4 +14,4 @@ halmos --ffi
 
 > Note: `--ffi` flag is necessary to compile the Vyper contracts
 
-You can find the presentation slides [here](presentation/A Unified Framework for Formal Verification of Vyper Bytecode using Halmos.pdf)
+You can find the presentation slides [here](./presentation/A%20Unified%20Framework%20for%20Formal%20Verification%20of%20Vyper%20Bytecode%20using%20Halmos.pdf)
